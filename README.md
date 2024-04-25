@@ -1,1 +1,1 @@
-Mein Arch Linux Config
+Meine Arch Linux Config
